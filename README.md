@@ -1,95 +1,109 @@
-<<<<<<< HEAD
-# Smart-AI-Resume-Analyzer
-Smart AI Resume Analyzer project by Shashi
-=======
-<p align="center">
-  <small>Best viewed in Dark Mode 🌙</small>
-</p>
+🤖 Smart AI Resume Analyzer
 
-<img src="https://socialify.git.ci/ShashiKumar/Smart-AI-Resume-Analyzer/image?font=Raleway&language=1&name=1&pattern=Circuit+Board&theme=Dark" width="1150"/>
+Your Personal AI-Powered Career Assistant 🚀
 
-<div align="center">
+A web-based intelligent system to analyze, optimize, and enhance resumes using Artificial Intelligence and Natural Language Processing (NLP). Designed to help students and job seekers improve their career prospects.
 
-# 🤖 Smart AI Resume Analyzer  
-### Your Personal Career Assistant 🚀
+📌 Project Highlights
 
-An intelligent web-based system to analyze, optimize, and improve resumes using Artificial Intelligence and NLP.
+Smart AI Resume Analyzer helps you:
 
-Developed for academic and learning purposes.
+Upload and analyze resumes in PDF/DOCX format
 
-</div>
+Generate ATS (Applicant Tracking System) scores
 
----
+Identify missing skills and optimize keyword usage
 
-## 📊 Project Overview
+Receive role-specific suggestions
 
-Smart AI Resume Analyzer helps students and job seekers:
+Build and improve professional resumes
 
-✔ Analyze resumes  
-✔ Improve ATS score  
-✔ Identify missing skills  
-✔ Get job suggestions  
-✔ Build professional resumes  
+Get AI-powered feedback on resume content
 
-This system uses Machine Learning and Natural Language Processing for smart analysis.
+Access a personalized dashboard for tracking progress
 
----
+Explore job opportunities tailored to your profile
 
-## ✨ Key Features
+🛠 Tech Stack
+Frontend
 
-- 📄 Resume Upload (PDF/DOCX)
-- 📊 ATS Score Generator
-- 🔍 Keyword Matching
-- 🎯 Role-Based Suggestions
-- 📝 Resume Builder
-- 🤖 AI Feedback System
-- 📈 User Dashboard
-- 💼 Job Search Module
+Streamlit
 
----
+HTML & CSS
 
-## 🛠️ Tech Stack
+Backend
 
-### 🔹 Frontend
-- Streamlit
-- HTML
-- CSS
+Python
 
-### 🔹 Backend
-- Python
+AI & NLP
 
-### 🔹 AI & NLP
-- spaCy
-- NLTK
-- scikit-learn
+spaCy
 
-### 🔹 Database
-- SQLite
+NLTK
 
----
+scikit-learn
 
-## ⚙️ Installation Guide
+Database
 
-### 1️⃣ Clone Project
+SQLite
 
-```bash
-git clone https://github.com/your-username/Smart-AI-Resume-Analyzer.git
+⚡ Key Features
+
+Resume Upload – Easily upload your resumes for analysis
+
+ATS Score Generator – Check how well your resume passes automated systems
+
+Keyword Matching – Ensure your resume contains relevant terms
+
+Role-Based Suggestions – Tailored recommendations for your target job
+
+AI Feedback System – Smart tips to improve readability and content
+
+Resume Builder – Generate polished resumes with guidance
+
+Dashboard – Track your improvements over time
+
+Job Search Module – Explore career opportunities based on your profile
+
+💻 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/shashi00013/Smart-AI-Resume-Analyzer.git
 cd Smart-AI-Resume-Analyzer
-2️⃣ Create Virtual Environment
+
+
+Create a virtual environment:
+
 python -m venv venv
-3️⃣ Activate Environment
-Windows
+
+
+Activate the environment:
+
+Windows:
 
 venv\Scripts\activate
-Linux / Mac
+
+
+Linux/Mac:
 
 source venv/bin/activate
-4️⃣ Install Packages
+
+
+Install required packages:
+
 pip install -r requirements.txt
-5️⃣ Download NLP Model
+
+
+Download NLP model:
+
 python -m spacy download en_core_web_sm
-6️⃣ Run Application
+
+
+Run the application:
+
 streamlit run app.py
+
 📁 Project Structure
 Smart-AI-Resume-Analyzer/
 │
@@ -102,77 +116,46 @@ Smart-AI-Resume-Analyzer/
 ├── database/
 ├── requirements.txt
 └── README.md
-💡 How It Works
-1️⃣ User uploads resume
-2️⃣ Text extraction
-3️⃣ Skill analysis
-4️⃣ ATS score generation
-5️⃣ AI recommendations
-6️⃣ Resume improvement tips
+
+🧠 How It Works
+
+User uploads resume
+
+Resume text is extracted
+
+Skills and keywords are analyzed
+
+ATS score is generated
+
+AI provides actionable suggestions
+
+Resume is improved based on feedback
 
 👨‍💻 Developer Info
+
 Name: Shashi Kumar
-
 Course: B.Tech Computer Science Engineering
+Institute: CGC University, Mohali
+Expected Graduation: 2027
 
-Institute: CGC Jhanjeri
+🚀 Motivation
 
-Year: 2026
+"EMPTY"
 
-🎓 Academic Use
-This project is developed for:
+💪
 
-College Project
+🔮 Future Enhancements
 
-AI Learning
+Cloud deployment for global access
 
-NLP Practice
+Mobile application version
 
-Web Development
+Advanced AI models for smarter analysis
 
-Not intended for commercial use.
+Resume ranking system
 
-🐞 Common Issues
-Issue: spaCy model missing
-Fix:
-
-python -m spacy download en_core_web_sm
-Issue: Streamlit not running
-Fix:
-
-pip install streamlit
-📈 Future Improvements
-Cloud Deployment
-
-Mobile App Version
-
-Better AI Models
-
-Resume Ranking System
-
-Interview Preparation Module
-
-🤝 Contributing
-Want to improve this project?
-
-Fork repository
-
-Create branch
-
-Commit changes
-
-Open Pull Request
+Interview preparation module
 
 📜 License
-This project is for educational purposes only.
 
-🌟 Motivation
-"Success comes to those who keep learning and improving."
-
-Keep coding. Keep growing. 💪🚀
-
-❤️ Support
-If you like this project, give it a ⭐ on GitHub.
-
-Thank You 😊
->>>>>>> cfb253ef (Updated project files by Shashi Kumar)
+Educational use only. Not intended for commercial purposes.
