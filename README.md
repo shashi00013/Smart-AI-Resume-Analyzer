@@ -11,8 +11,7 @@ A web‑based intelligent system that analyzes, optimizes, and enhances resumes 
 Designed to help students and job seekers improve their career prospects by giving them an ATS score, keyword gap analysis, and actionable feedback.
 
 ---
-## 📸 Screenshots
-<img width="1536" height="1024" alt="screenshort 1" src="https://github.com/user-attachments/assets/c1c65f16-ae5b-44eb-8a9a-66292627f973" />
+
 
 
 ## 📌 Project Highlights
@@ -42,16 +41,7 @@ Designed to help students and job seekers improve their career prospects by givi
 
 ## 📸 Screenshots (Preview)
 
-> *Replace these with actual screenshots of your app.*
-
-| Home Page | ATS Score Dashboard |
-|-----------|---------------------|
-| ![Home](https://via.placeholder.com/400x200?text=Upload+Resume) | ![ATS Score](https://via.placeholder.com/400x200?text=ATS+Score+Chart) |
-
-| Keyword Analysis | Resume Builder |
-|------------------|----------------|
-| ![Keywords](https://via.placeholder.com/400x200?text=Missing+Skills) | ![Builder](https://via.placeholder.com/400x200?text=Resume+Builder) |
-
+<img width="1536" height="1024" alt="screenshort 1" src="https://github.com/user-attachments/assets/c1c65f16-ae5b-44eb-8a9a-66292627f973" />
 ---
 
 ## ⚙️ Installation & Setup
