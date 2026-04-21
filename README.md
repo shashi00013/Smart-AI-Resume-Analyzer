@@ -180,6 +180,4 @@ This improved README:
 - Lists **future enhancements** in a clean bullet list.
 - Adds **contribution guidelines** and acknowledgements.
 - Keeps the original emoji style and developer info intact.
-
-You can copy‑paste this directly into your `README.md` file for the Smart AI Resume Analyzer project.
    
